@@ -3,7 +3,7 @@
 ### Git-Zen for GitHub
 
 <p>
-  <img width="250" align='left' src="https://raw.githubusercontent.com/git-zen/git-zen/master/2.gif">
+  <img width="300" align='left' src="https://raw.githubusercontent.com/git-zen/git-zen/master/2.gif">
 </p>
 
 ### What is Git-Zen?
