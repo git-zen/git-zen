@@ -1,4 +1,4 @@
-# [![Git-Zen Header](https://raw.githubusercontent.com/git-zen/git-zen/master/Synchronize%20Simply.png)](https://www.git-zen.com/GitHub/)
+# [![Git-Zen Header](https://raw.githubusercontent.com/git-zen/git-zen/master/Header.png)](https://www.git-zen.com/GitHub/)
 
 
 <p>
