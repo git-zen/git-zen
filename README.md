@@ -1,6 +1,4 @@
-# [![Git-Zen Header](https://raw.githubusercontent.com/git-zen/git-zen/master/synchronize%20simply.png)](https://www.git-zen.com/GitHub/)
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
-
+# [![Git-Zen Header](https://raw.githubusercontent.com/git-zen/git-zen/master/Synchronize%20Simply.png)](https://www.git-zen.com/GitHub/)
 
 ##Git-Zen for GitHub
 
