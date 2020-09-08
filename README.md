@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Header](https://raw.githubusercontent.com/git-zen/git-zen/synchronize simply.png "Header")](https://www.git-zen.com/)
+#Git-Zen for Zendesk
 
 <!--
 **git-zen/git-zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
