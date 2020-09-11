@@ -1,6 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="v1PHN3uMxwx1QZwqycX1bcRp2F7q6c7A2oBVwNEBAM8" />
- </head>
 [![Git-Zen Header](https://raw.githubusercontent.com/git-zen/git-zen/master/Header.png)](https://www.git-zen.com/)
 <p>
   <img width="300" align='left' src="https://raw.githubusercontent.com/git-zen/git-zen/master/2.gif">
