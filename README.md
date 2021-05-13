@@ -9,6 +9,6 @@ Git-Zen is a simple yet powerful GitHub integration application for Zendesk. Git
 
 Git-Zen makes it easy to look at past tickets and see exactly what GitHub code changes were made to correct the issue, in case further troubleshooting is needed in the future. Git-Zen can also keep your agents separate from your developers, so that you do not need to have Zendesk licenses for your development staff; simply create a new GitHub issue related to the Zendesk ticket directly from within Zendesk.
 
-:globe_with_meridians: [More Information](https://www.git-zen.com/GitHub/)
+:globe_with_meridians: [More Information](https://www.git-zen.com/)
 
 :blue_book: [Documentation](https://docs-github.git-zen.com/)
